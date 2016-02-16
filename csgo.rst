@@ -3,7 +3,7 @@ COUNTER-STRIKE: GLOBAL OFFENSIVE
 
 |
 
-.. image:: /vagrant/is210-week3-extracredit/csgo.png
+.. image:: csgo.png
     :height: 300
     :align: center
 
